@@ -1,4 +1,4 @@
-# EasyQ
+# EASY.Q
 
 Your restaurant's AI-powered menu assistant. Upload a PDF menu, translate it if needed, and let customers chat with an AI waiter.
 
